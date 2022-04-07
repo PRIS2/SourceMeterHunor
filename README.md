@@ -15,8 +15,9 @@ Ejecutar el siguiente comando para analizar el código fuente de un sistema de s
   SourceMeterJava -projectName=MyProject -projectBaseDir=MyProjectDir -resultsDir=Results -runFB=true -FBFileList=filelist.txt
 ```
 ## Resultados
+Dentro del directorio resultados se encuentran los 3 archivos .csv necesarios.
 
-Los resultados obtenidos tienen un tamaño en disco superior al permitido por Github, que no permite archivos de más de 100Mb.
+Los resultados, completos, obtenidos tienen un tamaño en disco superior al permitido por Github, que no permite archivos de más de 100Mb.
 Como alternativa dejo los resultados en una carpeta compartida donde se pueden ver los resultados.
 
 
